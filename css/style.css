@@ -13,7 +13,7 @@
 }
 
 #header .navbar-brand img{
-    width: 50%!important;
+    width: 40%!important;
 }
 .text-box{
     padding-top: 200px!important;
@@ -34,7 +34,7 @@
     overflow: hidden;
 }
 .campus-card img{
-    /* width: 100%; */
+    width: 100%;
     display: block;
 }
 
